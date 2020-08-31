@@ -1,0 +1,2 @@
+# admin
+npm run serve
